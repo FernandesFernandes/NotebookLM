@@ -1,0 +1,2 @@
+# NotebookLM
+Treinamento na DIO
