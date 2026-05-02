@@ -35,11 +35,9 @@ Didática clara
 Aplicação prática
 🧠 Engenharia de Prompts e "Cicatrizes"
 🔹 Prompt 1 – Início (genérico)
-Explique Python
-
+-> Explique Python
 
 Resultado:
-
 Muito superficial
 Sem aplicação prática
 
@@ -47,36 +45,34 @@ Problema:
 👉 Prompt amplo demais
 
 🔹 Prompt 2 – Melhorando contexto
-Explique Python para iniciantes com exemplos simples
-
+-> Explique Python para iniciantes com exemplos simples
 
 Resultado:
-
 Melhor entendimento
 Exemplos básicos
 
 Problema:
+👉 Ainda limitado tecnicamente
 
-Ainda limitado tecnicamente
 🔹 Prompt 3 – Estruturado
-Me ensine Python como um professor, incluindo:
+-> Me ensine Python como um professor, incluindo:
 - conceitos básicos
 - exemplos práticos
 - exercícios simples
 
 
 Resultado:
-
 Conteúdo mais completo
 Estrutura clara
+
 🔹 Prompt 4 – Nível prático
-Crie um exercício em Python para treinar lógica com solução comentada
+-> Crie um exercício em Python para treinar lógica com solução comentada
 
 
 Resultado:
-
 Aprendizado ativo
 Melhor retenção
+
 🔥 Cicatrizes (Aprendizados reais)
 IA não substitui prática → só ler não funciona
 Prompt genérico = resposta fraca
@@ -86,17 +82,16 @@ exercícios
 explicações passo a passo
 
 💡 Insight:
-
 Aprender programação com IA exige interação ativa, não só consumo passivo.
 
 📖 Miniguia de Estudo
 🧾 Fundamentos do Python
 
 Python é uma linguagem de programação:
-
 interpretada
 de alto nível
 fácil leitura
+
 🔹 Variáveis
 nome = "Fernando"
 idade = 25
@@ -123,18 +118,22 @@ Nomear variáveis de forma clara
 Evitar código duplicado
 Usar funções
 Comentar quando necessário
+
 ⚠️ Erros comuns
 Esquecer indentação
 Misturar tipos de dados
 Não testar código
 Copiar sem entender
+
 📚 Glossário
 Variável → espaço que armazena dados
 Função → bloco de código reutilizável
 Loop → repetição de código
 Condicional → decisão no código
 Lista → coleção de valores
+
 ♻️ Prompts Reutilizáveis
+
 Explique esse código Python linha por linha:
 
 Crie exercícios de Python para iniciantes com solução comentada
@@ -146,7 +145,6 @@ Me dê exemplos práticos de uso de [conceito]
 Atue como professor e me ensine Python passo a passo
 
 🚀 Conclusão
-
 Este projeto demonstrou que o uso da IA pode acelerar significativamente o aprendizado de programação, desde que utilizado de forma estratégica.
 
 O aprendizado mais eficiente aconteceu quando:
