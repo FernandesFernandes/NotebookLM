@@ -1,4 +1,4 @@
-🐍 Mini Guia de Estudos — Aprendendo Python com IA/n
+🐍 Mini Guia de Estudos — Aprendendo Python com IA</br>
 🎯 Contexto e Objetivos
 
 Este projeto tem como objetivo explorar o aprendizado da linguagem Python utilizando Inteligência Artificial como ferramenta de apoio, especialmente através do uso do NotebookLM.
