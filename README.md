@@ -5,14 +5,14 @@ Este projeto tem como objetivo explorar o aprendizado da linguagem Python utiliz
 
 O foco não foi apenas aprender a sintaxe, mas desenvolver:
 
-pensamento lógico
-resolução de problemas
-uso de IA como acelerador de aprendizado
-📌 Objetivos de estudo:
-Entender os fundamentos do Python
-Aprender estruturas básicas da linguagem
-Praticar resolução de problemas
-Desenvolver prompts eficazes para aprender programação com IA
+pensamento lógico</br>
+resolução de problemas</br>
+uso de IA como acelerador de aprendizado</br></br>
+📌 Objetivos de estudo:</br>
+Entender os fundamentos do Python</br>
+Aprender estruturas básicas da linguagem</br>
+Praticar resolução de problemas</br>
+Desenvolver prompts eficazes para aprender programação com IA</br>
 📚 Curadoria de Fontes
 
 As seguintes fontes foram utilizadas no NotebookLM:
