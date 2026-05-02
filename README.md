@@ -17,16 +17,16 @@ Desenvolver prompts eficazes para aprender programação com IA</br>
 
 As seguintes fontes foram utilizadas no NotebookLM:
 
-Documentação oficial do Python
-https://docs.python.org/3/
-W3Schools — Python Tutorial
-https://www.w3schools.com/python/
-Real Python (artigos técnicos)
-https://realpython.com/
-Python para Iniciantes (eBook gratuito)
-https://pythonparaweb.com.br/
-Curso em Vídeo — Python (Gustavo Guanabara)
-https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+Documentação oficial do Python</br>
+https://docs.python.org/3/</br>
+W3Schools — Python Tutorial</br>
+https://www.w3schools.com/python/</br>
+Real Python (artigos técnicos)</br>
+https://realpython.com/</br>
+Python para Iniciantes (eBook gratuito)</br>
+https://pythonparaweb.com.br/</br>
+Curso em Vídeo — Python (Gustavo Guanabara)</br>
+https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6</br>
 
 💡 Critérios:
 
